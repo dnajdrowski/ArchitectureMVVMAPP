@@ -3,4 +3,7 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="colorDarkVanilla">#D2BBA0</color>
+    <color name="colorGunmetal">#283044</color>
+    <color name="colorBurnishedBrown">#A97C73</color>
 </resources>
